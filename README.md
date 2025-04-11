@@ -1,5 +1,7 @@
 # Fujifilm Recipes
 
+GitLab Avatar Source: [Flaticon](https://www.flaticon.com/de/kostenloses-icon/kamera_2668896?term=kamera&page=1&position=10&origin=tag&related_id=2668896)
+
 This repository contains various Fujifilm Recipes.
 
 The file format is an `XML` with version ending `FP1`. This is Fujifilms own file format for recipes (at-least for the X-T50).
