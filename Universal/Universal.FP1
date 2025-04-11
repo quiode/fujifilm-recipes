@@ -16,7 +16,7 @@
         <ExposureBias>0</ExposureBias>
         <DynamicRange>400</DynamicRange>
         <WideDRange>0</WideDRange>
-        <FilmSimulation>BW</FilmSimulation>
+        <FilmSimulation>Provia</FilmSimulation>
         <BlackImageTone>0</BlackImageTone>
         <MonochromaticColor_RG>0</MonochromaticColor_RG>
         <GrainEffect>WEAK</GrainEffect>
@@ -25,10 +25,10 @@
         <ColorChromeBlue>WEAK</ColorChromeBlue>
         <SmoothSkinEffect>OFF</SmoothSkinEffect>
         <WBShootCond>OFF</WBShootCond>
-        <WhiteBalance>Auto</WhiteBalance>
+        <WhiteBalance>Auto_White</WhiteBalance>
         <WBShiftR>2</WBShiftR>
         <WBShiftB>-4</WBShiftB>
-        <WBColorTemp>10000K</WBColorTemp>
+        <WBColorTemp>0K</WBColorTemp>
         <HighlightTone>-1.5</HighlightTone>
         <ShadowTone>-1</ShadowTone>
         <Color>3</Color>
