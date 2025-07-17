@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ConversionProfile application="XRFC" version="1.12.0.0">
-    <PropertyGroup device="X-T50" version="X-T50_0100" label="Vibrant Arizona">
+    <PropertyGroup device="X-T50" version="X-T50_0100" label="Pacific Blues">
         <SerialNumber>5935373231312407031883101119DD</SerialNumber>
         <TetherRAWConditonCode>X-T50_0100</TetherRAWConditonCode>
         <Editable>TRUE</Editable>
@@ -14,23 +14,23 @@
         <ImageSize>L3x2</ImageSize>
         <ImageQuality>Fine</ImageQuality>
         <ExposureBias>0</ExposureBias>
-        <DynamicRange>100</DynamicRange>
-        <WideDRange>P2</WideDRange>
-        <FilmSimulation>Classic</FilmSimulation>
+        <DynamicRange>400</DynamicRange>
+        <WideDRange>0</WideDRange>
+        <FilmSimulation>ClassicNEGA</FilmSimulation>
         <BlackImageTone>0</BlackImageTone>
         <MonochromaticColor_RG>0</MonochromaticColor_RG>
-        <GrainEffect>WEAK</GrainEffect>
-        <GrainEffectSize>SMALL</GrainEffectSize>
-        <ChromeEffect>OFF</ChromeEffect>
-        <ColorChromeBlue>OFF</ColorChromeBlue>
+        <GrainEffect>STRONG</GrainEffect>
+        <GrainEffectSize>LARGE</GrainEffectSize>
+        <ChromeEffect>STRONG</ChromeEffect>
+        <ColorChromeBlue>WEAK</ColorChromeBlue>
         <SmoothSkinEffect>OFF</SmoothSkinEffect>
         <WBShootCond>OFF</WBShootCond>
         <WhiteBalance>Temperature</WhiteBalance>
-        <WBShiftR>6</WBShiftR>
-        <WBShiftB>-8</WBShiftB>
-        <WBColorTemp>4340K</WBColorTemp>
-        <HighlightTone>0</HighlightTone>
-        <ShadowTone>0</ShadowTone>
+        <WBShiftR>1</WBShiftR>
+        <WBShiftB>-3</WBShiftB>
+        <WBColorTemp>5800K</WBColorTemp>
+        <HighlightTone>-2</HighlightTone>
+        <ShadowTone>3</ShadowTone>
         <Color>4</Color>
         <Sharpness>-2</Sharpness>
         <NoisReduction>-4</NoisReduction>
