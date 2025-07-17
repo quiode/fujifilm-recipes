@@ -2,8 +2,6 @@
 
 This directory contains various mixed recipes. Every recipe has a section here with a description and copyright information.
 
-This directory contains various mixed recipes. Every recipe has a section here with a description and copyright information.
-
 ## Kodachrome 64
 
 **Source:** https://fujixweekly.com/2022/11/28/kodachrome-64-fujifilm-x-t5-x-trans-v-film-simulation-recipe
