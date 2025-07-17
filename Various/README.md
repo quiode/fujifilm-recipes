@@ -25,3 +25,11 @@ The Vibrant Arizona Film Simulation Recipe can be characterized as bright, color
 ### Description
 
 The aesthetic is intended to emulate Lucy Laucht‘s Spirit of Summer series, particularly the Positano Blues photographs. While it is intended for a summer day at the beach, the recipe works great for many different subjects and situations. Foggy mornings? Yes! Dreary overcast? Yep! Desert landscapes? Sure! Garden flowers? Autumn leaves? Dramatic portraits? Absolutely. And lots, lots more. I’ve even seen some really interesting night photographs with it. Try this recipe for many different light scenarios and different subjects—you’re bound to love it!
+
+## Reggie's Portra
+
+**Source:** https://fujixweekly.com/2022/06/11/fujifilm-x-trans-iv-film-simulation-recipe-reggies-portra/
+
+### Description
+
+As the name implies, Kodak Portra 400 is intended for portrait photography, but can be used for many other genres of photography. It’s similar to Portra 160, but with more contrast, saturation and grain. Believe it or not, ISO 400 was considered “high ISO” by many photographers back in the film days, and Portra 400 was one of the absolute best “high ISO” color films ever made. It’s still available today, and is very popular among film photographers.

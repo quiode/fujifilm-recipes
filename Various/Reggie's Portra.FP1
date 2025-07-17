@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ConversionProfile application="XRFC" version="1.12.0.0">
-    <PropertyGroup device="X-T50" version="X-T50_0100" label="Vibrant Arizona">
+    <PropertyGroup device="X-T50" version="X-T50_0100" label="Reggie&apos;s Portra">
         <SerialNumber>5935373231312407031883101119DD</SerialNumber>
         <TetherRAWConditonCode>X-T50_0100</TetherRAWConditonCode>
         <Editable>TRUE</Editable>
@@ -14,27 +14,27 @@
         <ImageSize>L3x2</ImageSize>
         <ImageQuality>Fine</ImageQuality>
         <ExposureBias>0</ExposureBias>
-        <DynamicRange>100</DynamicRange>
-        <WideDRange>P2</WideDRange>
+        <DynamicRange/>
+        <WideDRange>0</WideDRange>
         <FilmSimulation>Classic</FilmSimulation>
         <BlackImageTone>0</BlackImageTone>
         <MonochromaticColor_RG>0</MonochromaticColor_RG>
         <GrainEffect>WEAK</GrainEffect>
         <GrainEffectSize>SMALL</GrainEffectSize>
-        <ChromeEffect>OFF</ChromeEffect>
-        <ColorChromeBlue>OFF</ColorChromeBlue>
+        <ChromeEffect>STRONG</ChromeEffect>
+        <ColorChromeBlue>WEAK</ColorChromeBlue>
         <SmoothSkinEffect>OFF</SmoothSkinEffect>
         <WBShootCond>OFF</WBShootCond>
         <WhiteBalance>Auto</WhiteBalance>
-        <WBShiftR>2</WBShiftR>
-        <WBShiftB>-4</WBShiftB>
-        <WBColorTemp>10000K</WBColorTemp>
-        <HighlightTone>0</HighlightTone>
-        <ShadowTone>0</ShadowTone>
-        <Color>4</Color>
+        <WBShiftR>6</WBShiftR>
+        <WBShiftB>-8</WBShiftB>
+        <WBColorTemp>4340K</WBColorTemp>
+        <HighlightTone>-1</HighlightTone>
+        <ShadowTone>-1</ShadowTone>
+        <Color>2</Color>
         <Sharpness>-2</Sharpness>
         <NoisReduction>-4</NoisReduction>
-        <Clarity>-3</Clarity>
+        <Clarity>0</Clarity>
         <LensModulationOpt>ON</LensModulationOpt>
         <ColorSpace>sRGB</ColorSpace>
         <HDR/>
