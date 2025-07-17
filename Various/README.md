@@ -33,3 +33,15 @@ The aesthetic is intended to emulate Lucy Laucht‘s Spirit of Summer series, pa
 ### Description
 
 As the name implies, Kodak Portra 400 is intended for portrait photography, but can be used for many other genres of photography. It’s similar to Portra 160, but with more contrast, saturation and grain. Believe it or not, ISO 400 was considered “high ISO” by many photographers back in the film days, and Portra 400 was one of the absolute best “high ISO” color films ever made. It’s still available today, and is very popular among film photographers.
+
+## California Summer
+
+**Source:** https://fujixweekly.com/2024/06/04/california-summer-fujifilm-x100vi-x-trans-v-film-simulation-recipe/
+
+### Description
+
+The specific photographs that inspired this California Summer Recipe were from Preet’s recent trip to America—specifically, Texas. You can find these pictures on his Instagram. Obviously this Recipe doesn’t resemble all of his pictures, just certain ones; however, I think you can spot those pretty easily, because this Recipe is a pretty good match. Not 100%, but definitely very close. It would be a great honor if he ever tried this one someday.
+
+I wasn’t sure what to name this Recipe. I called it “Preet Texas” in my camera, and initially “Texas Summer” for the article title. After carefully reviewing the pictures that I captured with this Recipe, I really felt that it produces a quintessential California summertime vibe. So at the last moment I renamed it to California Summer. I think that name matches the picture aesthetic well.
+
+For best results, use this Recipe in sunny daylight situations. It does well in harsh midday light and especially golden hour. It can be alright in shade. I would avoid it for indoor artificial light and nighttime photography, although under the right conditions I’m sure it can be ok for that, too. This California Summer Recipe is compatible with fifth-generation X-series cameras, which (as of this writing) are the Fujifilm X-H2s, X-H2, X-T5, X-S20, X100VI, and X-T50 cameras. You can probably use this with newer GFX models, but I’ve not tested it for that, and it will likely render slightly different (don’t be afraid to try, though).
